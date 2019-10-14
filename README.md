@@ -3,4 +3,4 @@ Jakub Balicki
 Macierz odwrotna: na podstawie losowo wybranych liczb będzie tworzyć macierz, która będzie przekształcana w macierz odwrotną
 
 
-przelicznik kalorii  np. z zakupów, liczeniwe kALorii czy jest zgodne z dziennym zapotrzebowaniem 
+przelicznik kalorii  np. z zakupów, liczeniwe kALorii czy jest zgodne z dziennym zapotrzebowaniem np. według wykonywanej pracy, płci itp
